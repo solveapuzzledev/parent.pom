@@ -43,6 +43,7 @@
           <!-- By default, don't independently manage sub-modules by version--> 
           <configuration>
             <autoVersionSubmodules>true</autoVersionSubmodules>
+            <pushChanges>false</pushChanges>
           </configuration>
         </plugin>
 
